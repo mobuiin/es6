@@ -1,0 +1,22 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "配合cli测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobuiin/es6.git"
+  },
+  "keywords": [
+    "test-es6"
+  ],
+  "author": "kk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mobuiin/es6/issues"
+  },
+  "homepage": "https://github.com/mobuiin/es6#readme"
+}
